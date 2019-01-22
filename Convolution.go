@@ -1,4 +1,4 @@
-package main
+package gorrect
 
 import "github.com/racerxdl/gorrect/correctwrap"
 
